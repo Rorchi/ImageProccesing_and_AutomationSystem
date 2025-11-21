@@ -1,2 +1,3 @@
-Sürdürülebilir Madencilik için Görüntü İşleme ile Otomasyon Sistemi ./
-Bu proje, yeraltı madenciliğinde cevher ayrım sürecini otomatikleştirmek amacıyla tasarlanmış görüntü işleme ve robotik tabanlı bir otomasyon sistemidir. Geleneksel madencilikte cevher ve atık ayrımı çoğunlukla manuel yöntemlerle yapıldığı için hem zaman kaybı, hem de iş güvenliği riski oluşmaktadır. Bu çalışma, bu süreci otonom hale getirerek verimliliği artırmayı, insan hatasını azaltmayı, kaynak israfını önlemeyi ve sürdürülebilir madenciliği desteklemeyi amaçlar.
+Sürdürülebilir Madencilik için Görüntü İşleme ile Otomasyon Sistemi
+
+Bu proje, yeraltı madenciliğinde cevher ayrım sürecini otomatikleştirmek amacıyla geliştirilmiş görüntü işleme ve robotik tabanlı bir otomasyon sistemidir. Manuel ayrımın yol açtığı zaman kaybı, insan hatası ve güvenlik risklerini azaltmayı hedefler.
